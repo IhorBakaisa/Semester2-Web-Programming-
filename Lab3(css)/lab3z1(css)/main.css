@@ -1,0 +1,86 @@
+
+header {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    background-color: #D365E4;
+    height: 230px;
+    width: 1520px;
+}
+
+ ul, li {
+     display: block;
+     margin: 0;
+     padding: 0;
+ }
+.menu {
+    display: flex;
+    margin-top: 95px;
+    margin-left: 520px;
+}
+
+ .menu li {
+     margin-right: 33px;
+     font-size: 17px;
+     background-color: #B345C5;
+     padding: 5px 5px;
+ }
+ .menu li a {
+     text-decoration: none;
+    color: black;
+ }
+
+ .zag {
+     height: 40px;
+     margin-top: 80px;
+     margin-left: 230px;
+     margin-bottom: 80px;
+     background-color: #B345C5;
+     padding: 10px 10px;
+ }
+ .firstblok {
+    display: flex;
+ }
+ .secondblok {
+    display: flex;
+ }
+ p, h3 {
+     text-align: center;
+ }
+
+ .secondblok, .firstblok{
+     margin-top: 100px;
+     margin-left: 380px;
+ }
+
+ #contacts {
+     margin-left: 150px;
+ }
+ #usefullinks {
+     margin-left: 140px;
+ }
+ #work {
+    margin-left: 45px;
+ }
+ .section {
+     background-color: #B345C5;
+     margin-top: 70px;
+     margin-left: 620px;
+     margin-right: 540px;
+     padding: 25px 40px;
+ }
+ .end {
+    display: flex;
+    margin-left: 300px;
+ }
+
+ .end li {
+    margin-right: 33px;
+    margin-top: 25px;
+ }
+ footer {
+     background: #B345C5;
+     width: 1520px;
+     height: 100px;
+     margin-top: 60px;
+ }

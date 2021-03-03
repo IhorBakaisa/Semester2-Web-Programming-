@@ -1,0 +1,42 @@
+.blue {
+    color: rgb(0, 0, 163);
+}
+.green {
+    color: green;
+}
+.red {
+    color: red;
+}
+.yellow {
+    color: rgb(224, 202, 0);
+}
+.gray {
+    color: gray;
+}
+.gol {
+    color: rgb(0, 183, 255);
+}
+.blue2 {
+    color: rgb(62, 62, 250);
+}
+.secondblock, .thirdblock {
+    margin-left: 50px;
+}
+.zag1 {
+    margin-left: 95px;
+}
+.zag2, .zag3 {
+    margin-left: 45px;
+}
+li {
+    margin-bottom: 3px;
+}
+#fot1 {
+    margin-left: 670px;
+}
+#fot2 {
+    margin-left: 555px;
+}
+#fot3 {
+    margin-left: 525px;
+}
