@@ -1,0 +1,91 @@
+body {
+    background: rgba(47, 21, 119, 0.575)    ;
+    margin-top: 100px;
+    margin-left: 560px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 75px 75px 75px 75px 75px;
+    grid-template-rows: 60px 60px 60px 60px 60px;
+    grid-column-gap: 2px;
+}
+
+.grid div {
+    background-color: rgb(44, 44, 51);
+    color: white;
+    opacity: 0.6;
+}
+.grid div:nth-child(3) {
+    width: 80px;
+    height: 80px;
+    margin-top: -10px;
+    margin-right: 20px;
+    opacity: 1;
+    margin-left: -2px;
+}
+
+.hov:hover {
+    opacity: 0.8;
+}
+
+.grid img {
+     margin-left: 25px;
+     margin-top: 17px;
+     width: 25px;
+ }
+
+ .grid2 {
+    display: grid;
+    grid-template-columns: 310px;
+    grid-template-rows: 150px 60px 60px 60px 60px;
+ }
+.grid2{
+    margin-top: -210px;
+    margin-left: 37px;
+}
+
+ .grid2 div {
+    border: 1px solid  rgba(189, 189, 189, 0.493);
+    background-color: white;
+    color: rgba(88, 88, 88, 0.493);
+ }
+ .grid2 .one {
+    margin-left: 20px;
+ }
+ .second {
+     margin-top: -35px;
+     margin-right: 10px;
+ }
+.grid2 p {
+     font-size: 17px;
+ }
+ .grid2 div .second:hover {
+    color: rgba(41, 38, 38, 0.877);
+    font-size: 22px;
+ }
+ .grid2 img {
+    margin-top: -1px;
+    margin-left: -1px;
+ }
+ .bottom-left {
+    color: white;
+    position: absolute;
+    bottom: 420px;
+    left: 608px
+ }
+ .grid2 .bottom-left {
+    font-size: 30px;
+ }
+ .loc {
+    color: white;
+    position: absolute;
+    bottom: 413px;
+    left: 610px;
+ }
+ .grid2 .loc {
+     font-size: 14px;
+ }
+ .loc img {
+    width: 15px;
+ }
